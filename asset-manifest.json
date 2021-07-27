@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_alfatraining/static/css/main.4c48667a.chunk.css",
+    "main.js": "/react_alfatraining/static/js/main.1def634c.chunk.js",
+    "main.js.map": "/react_alfatraining/static/js/main.1def634c.chunk.js.map",
+    "runtime-main.js": "/react_alfatraining/static/js/runtime-main.dce461c6.js",
+    "runtime-main.js.map": "/react_alfatraining/static/js/runtime-main.dce461c6.js.map",
+    "static/css/2.6ba042f5.chunk.css": "/react_alfatraining/static/css/2.6ba042f5.chunk.css",
+    "static/js/2.58a77b67.chunk.js": "/react_alfatraining/static/js/2.58a77b67.chunk.js",
+    "static/js/2.58a77b67.chunk.js.map": "/react_alfatraining/static/js/2.58a77b67.chunk.js.map",
+    "index.html": "/react_alfatraining/index.html",
+    "precache-manifest.b94820e7ee794503efa3e4619c60efad.js": "/react_alfatraining/precache-manifest.b94820e7ee794503efa3e4619c60efad.js",
+    "service-worker.js": "/react_alfatraining/service-worker.js",
+    "static/css/2.6ba042f5.chunk.css.map": "/react_alfatraining/static/css/2.6ba042f5.chunk.css.map",
+    "static/css/main.4c48667a.chunk.css.map": "/react_alfatraining/static/css/main.4c48667a.chunk.css.map",
+    "static/js/2.58a77b67.chunk.js.LICENSE.txt": "/react_alfatraining/static/js/2.58a77b67.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react_alfatraining/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce461c6.js",
+    "static/css/2.6ba042f5.chunk.css",
+    "static/js/2.58a77b67.chunk.js",
+    "static/css/main.4c48667a.chunk.css",
+    "static/js/main.1def634c.chunk.js"
+  ]
+}
