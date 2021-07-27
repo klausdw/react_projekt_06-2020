@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react_alfatraining/static/css/main.4c48667a.chunk.css",
-    "main.js": "/react_alfatraining/static/js/main.1def634c.chunk.js",
-    "main.js.map": "/react_alfatraining/static/js/main.1def634c.chunk.js.map",
-    "runtime-main.js": "/react_alfatraining/static/js/runtime-main.dce461c6.js",
-    "runtime-main.js.map": "/react_alfatraining/static/js/runtime-main.dce461c6.js.map",
-    "static/css/2.6ba042f5.chunk.css": "/react_alfatraining/static/css/2.6ba042f5.chunk.css",
-    "static/js/2.58a77b67.chunk.js": "/react_alfatraining/static/js/2.58a77b67.chunk.js",
-    "static/js/2.58a77b67.chunk.js.map": "/react_alfatraining/static/js/2.58a77b67.chunk.js.map",
-    "index.html": "/react_alfatraining/index.html",
-    "precache-manifest.b94820e7ee794503efa3e4619c60efad.js": "/react_alfatraining/precache-manifest.b94820e7ee794503efa3e4619c60efad.js",
-    "service-worker.js": "/react_alfatraining/service-worker.js",
-    "static/css/2.6ba042f5.chunk.css.map": "/react_alfatraining/static/css/2.6ba042f5.chunk.css.map",
-    "static/css/main.4c48667a.chunk.css.map": "/react_alfatraining/static/css/main.4c48667a.chunk.css.map",
-    "static/js/2.58a77b67.chunk.js.LICENSE.txt": "/react_alfatraining/static/js/2.58a77b67.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/react_alfatraining/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/react_projekt_06-2020/static/css/main.4c48667a.chunk.css",
+    "main.js": "/react_projekt_06-2020/static/js/main.27703f37.chunk.js",
+    "main.js.map": "/react_projekt_06-2020/static/js/main.27703f37.chunk.js.map",
+    "runtime-main.js": "/react_projekt_06-2020/static/js/runtime-main.21e86d0a.js",
+    "runtime-main.js.map": "/react_projekt_06-2020/static/js/runtime-main.21e86d0a.js.map",
+    "static/css/2.5114816d.chunk.css": "/react_projekt_06-2020/static/css/2.5114816d.chunk.css",
+    "static/js/2.8989f891.chunk.js": "/react_projekt_06-2020/static/js/2.8989f891.chunk.js",
+    "static/js/2.8989f891.chunk.js.map": "/react_projekt_06-2020/static/js/2.8989f891.chunk.js.map",
+    "index.html": "/react_projekt_06-2020/index.html",
+    "precache-manifest.8855893255c8bc48d52ab984c2a4718d.js": "/react_projekt_06-2020/precache-manifest.8855893255c8bc48d52ab984c2a4718d.js",
+    "service-worker.js": "/react_projekt_06-2020/service-worker.js",
+    "static/css/2.5114816d.chunk.css.map": "/react_projekt_06-2020/static/css/2.5114816d.chunk.css.map",
+    "static/css/main.4c48667a.chunk.css.map": "/react_projekt_06-2020/static/css/main.4c48667a.chunk.css.map",
+    "static/js/2.8989f891.chunk.js.LICENSE.txt": "/react_projekt_06-2020/static/js/2.8989f891.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react_projekt_06-2020/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dce461c6.js",
-    "static/css/2.6ba042f5.chunk.css",
-    "static/js/2.58a77b67.chunk.js",
+    "static/js/runtime-main.21e86d0a.js",
+    "static/css/2.5114816d.chunk.css",
+    "static/js/2.8989f891.chunk.js",
     "static/css/main.4c48667a.chunk.css",
-    "static/js/main.1def634c.chunk.js"
+    "static/js/main.27703f37.chunk.js"
   ]
 }
